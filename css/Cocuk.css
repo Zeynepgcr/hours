@@ -1,0 +1,40 @@
+body
+{color:red;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:khaki
+    }
+    
+h1{
+    text-align:center;
+    font-size:40px;
+}
+h2{
+    color:darkgreen;
+    font-family: 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+.sola-kaydir
+{float: left;
+    width:250px;
+    height:200px;
+}
+
+.metin-sagda
+{ align:right;
+ color:black}
+
+ .Kİtaplar
+ {width: 100px;;
+ height: 100px;
+
+ }
+
+   
+
+
+h1
+{
+    color:darkblue;
+    font-size:35px;
+}
